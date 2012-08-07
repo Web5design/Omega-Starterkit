@@ -1,5 +1,5 @@
 name = Omega HTML5 Starterkit
-description = Projekt Waterkant Starterkit with an rewrite for the Grid
+description = Starterkit with support for compass.app. Rename .info and the sass-files to your needs and start watching folder with compass.app
 core = 7.x
 engine = phptemplate
 screenshot = screenshot.png
